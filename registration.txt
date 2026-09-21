@@ -1,0 +1,4 @@
+Using college email open given link
+Log in using valid ID
+Enter password
+Event pass will be sent to registered email.
