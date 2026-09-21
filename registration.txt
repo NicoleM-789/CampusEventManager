@@ -1,0 +1,3 @@
+Open the link using College email
+Log in using valid ID
+Enter password
